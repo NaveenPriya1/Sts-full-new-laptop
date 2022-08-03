@@ -1,0 +1,20 @@
+<html>
+<body>
+<h2 style=color:red>Spring web mvc</h2>
+<form action="first">
+<fieldset style=margin-lef:50px>
+<legend >My form</legend>
+<div style=text-align:center>
+id<input type="text" name="id" placeholder="Enter id"><br><br>
+Name<input type="text" name="name" placeholder="Enter Name"><br><br>
+<input type="submit">
+</div>
+
+</fieldset>
+
+
+
+
+</form>
+</body>
+</html>

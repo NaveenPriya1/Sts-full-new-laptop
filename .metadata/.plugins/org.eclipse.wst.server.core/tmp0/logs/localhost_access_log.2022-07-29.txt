@@ -1,0 +1,9 @@
+127.0.0.1 - - [29/Jul/2022:17:59:52 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [29/Jul/2022:18:00:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Jul/2022:18:00:09 +0530] "GET /springmodelview/display.jsp HTTP/1.1" 500 2478
+0:0:0:0:0:0:0:1 - - [29/Jul/2022:18:00:47 +0530] "GET /springmodelview/index.jsp HTTP/1.1" 200 642
+0:0:0:0:0:0:0:1 - - [29/Jul/2022:18:00:56 +0530] "GET /springmodelview/first?id=11&name=Nav HTTP/1.1" 200 219
+0:0:0:0:0:0:0:1 - - [29/Jul/2022:18:03:58 +0530] "GET /springmodelview/index.jsp HTTP/1.1" 200 642
+0:0:0:0:0:0:0:1 - - [29/Jul/2022:18:04:08 +0530] "GET /springmodelview/first?id=123&name=Nav HTTP/1.1" 200 222
+0:0:0:0:0:0:0:1 - - [29/Jul/2022:18:13:33 +0530] "GET /springmodelview/index.jsp HTTP/1.1" 200 642
+0:0:0:0:0:0:0:1 - - [29/Jul/2022:18:13:45 +0530] "GET /springmodelview/first?id=55nav&name=gggg HTTP/1.1" 200 224

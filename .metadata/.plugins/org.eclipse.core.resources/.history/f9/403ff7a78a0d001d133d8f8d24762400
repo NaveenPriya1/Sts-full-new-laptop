@@ -1,0 +1,5 @@
+package springjdbctemp.springjdbctemp;
+
+public class StudentBean {
+
+}

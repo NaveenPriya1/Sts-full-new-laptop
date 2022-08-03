@@ -1,0 +1,9 @@
+package springhybernatetemp.springhybernatetemp;
+
+public class Employee {
+	
+	private int empid;
+	
+	private String empname;
+
+}

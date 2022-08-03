@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Student.java&apos; to &apos;Phase2/src/com.jdbc.retrival&apos;&#x0D;&#x0A;- Original project: &apos;Phase2&apos;&#x0D;&#x0A;- Destination element: &apos;Phase2/src/com.jdbc.retrival&apos;&#x0D;&#x0A;- Original element: &apos;com.jdbc.Student.java&apos;" description="Copy compilation unit" destination="/src&lt;com.jdbc.retrival" element1="/src&lt;com.jdbc{Student.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1656494938782" units="1" version="1.0"/>
+</session>

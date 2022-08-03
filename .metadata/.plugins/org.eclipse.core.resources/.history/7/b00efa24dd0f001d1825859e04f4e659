@@ -1,0 +1,23 @@
+package com.example.demo;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+@Service
+public class StudentSer {
+	
+	@Autowired
+	StudentRepo srepo;
+	
+	//to insert single obj
+	public Student insert(Student s) {
+		return srepo.save(s);
+	}
+	
+	public List<Student> getall(){
+		return srepo.findAll();
+	}
+
+}
