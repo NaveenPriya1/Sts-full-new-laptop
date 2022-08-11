@@ -1,5 +1,0 @@
-package springhybernatetemp.springhybernatetemp;
-
-public interface EmployeeCurd {
-
-}

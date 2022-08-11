@@ -36,6 +36,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Sts WorkSpace New\sbootjparestfull"/>
 			<item value="D:\Sts WorkSpace New\springex\pom.xml"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -60,6 +61,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="junittest.junittest"/>
+			<item value="spwemvc"/>
 			<item value="spwemvc.springmodelview"/>
 			<item value="spwemvc.springwebmvcanno"/>
 			<item value="spwemvc.springwebmvc"/>
@@ -69,12 +72,14 @@
 			<item value="springex.springex"/>
 		</list>
 		<list key="groupId">
+			<item value="junittest"/>
 			<item value="spwemvc"/>
 			<item value="springhybernatetemp"/>
 			<item value="springjdbctemp"/>
 			<item value="springex"/>
 		</list>
 		<list key="artifactId">
+			<item value="junittest"/>
 			<item value="springmodelview"/>
 			<item value="springwebmvcanno"/>
 			<item value="springwebmvc"/>

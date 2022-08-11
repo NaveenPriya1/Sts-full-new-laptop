@@ -14032,3 +14032,170 @@ Caused by: java.lang.NoClassDefFoundError: Could not initialize class org.apache
 2022-08-03 12:29:56,655 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-03 12:29:56,655 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-08-03 12:29:56,655 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\sbootjparestfull\src\test\resources
+2022-08-03 16:38:14,313 [Worker-88: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Sts WorkSpace New\junittest\pom.xml
+2022-08-03 16:38:16,777 [Worker-88: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: junittest:junittest:0.0.1-SNAPSHOT @ D:\Sts WorkSpace New\junittest\pom.xml.
+2022-08-03 16:38:17,965 [Worker-88: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junittest/src/main/java
+2022-08-03 16:38:17,968 [Worker-88: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junittest/src/test/java
+2022-08-03 16:38:18,038 [Worker-88: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2022-08-03 16:38:18,722 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:38:18,722 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:38:18,725 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:38:18,725 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:38:46,640 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:38:46,640 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:38:46,642 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:38:46,642 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:39:13,199 [Worker-87: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-03 16:39:13,409 [Worker-87: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: junittest:junittest:0.0.1-SNAPSHOT @ D:\Sts WorkSpace New\junittest\pom.xml.
+2022-08-03 16:39:13,550 [Worker-87: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junittest/src/main/java
+2022-08-03 16:39:13,550 [Worker-87: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junittest/src/test/java
+2022-08-03 16:39:13,671 [Worker-87: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-03 16:39:13,839 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:39:13,839 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:39:13,841 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:39:13,841 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:40:06,245 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:40:06,245 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:40:06,249 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:40:06,250 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:40:13,483 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:40:13,483 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:40:13,484 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:40:13,484 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:40:33,402 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:40:33,402 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:40:33,403 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:40:33,403 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:49:25,149 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:49:25,149 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:49:25,150 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:49:25,151 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:49:48,896 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:49:48,897 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:49:48,898 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:49:48,898 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:50:37,025 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:50:37,025 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:50:37,026 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:50:37,028 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:57:43,060 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:57:43,060 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:57:43,063 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:57:43,063 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:58:45,179 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:58:45,180 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:58:45,181 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:58:45,181 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 16:59:10,392 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:59:10,393 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 16:59:10,394 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 16:59:10,394 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:08:42,691 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:08:42,692 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:08:42,693 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:08:42,694 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:10:13,955 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:10:13,955 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:10:13,957 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:10:13,957 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:10:36,729 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:10:36,730 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:10:36,731 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:10:36,731 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:12:47,668 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:12:47,669 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:12:47,670 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:12:47,670 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:13:59,909 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:13:59,910 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:13:59,912 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:13:59,913 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:14:36,030 [Worker-96: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:14:36,030 [Worker-96: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:14:36,034 [Worker-96: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:14:36,034 [Worker-96: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:15:30,039 [Worker-92: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:15:30,040 [Worker-92: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:15:30,042 [Worker-92: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:15:30,043 [Worker-92: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:16:09,379 [Worker-94: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:16:09,379 [Worker-94: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:16:09,380 [Worker-94: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:16:09,380 [Worker-94: Launching AgevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:18:06,692 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:18:06,692 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:18:06,694 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:18:06,694 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:22:36,807 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:22:36,807 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:22:36,808 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:22:36,808 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:22:40,605 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:22:40,605 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:22:40,606 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:22:40,606 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:23:01,872 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:23:01,872 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:23:01,873 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:23:01,873 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:25:36,715 [Worker-91: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:25:36,716 [Worker-91: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:25:36,717 [Worker-91: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:25:36,717 [Worker-91: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:25:53,643 [Worker-100: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:25:53,644 [Worker-100: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:25:53,645 [Worker-100: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:25:53,645 [Worker-100: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:26:38,087 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:26:38,087 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:26:38,089 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:26:38,089 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:26:47,975 [Worker-98: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:26:47,976 [Worker-98: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:26:47,976 [Worker-98: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:26:47,977 [Worker-98: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:26:59,091 [Worker-98: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:26:59,092 [Worker-98: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:26:59,093 [Worker-98: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:26:59,093 [Worker-98: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:28:36,176 [Worker-100: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:28:36,176 [Worker-100: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:28:36,177 [Worker-100: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:28:36,177 [Worker-100: Launching PrimevalidTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:30:35,176 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:30:35,176 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:30:35,177 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:30:35,177 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:31:39,460 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:31:39,461 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:31:39,463 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:31:39,464 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:32:36,968 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:32:36,969 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:32:36,971 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:32:36,972 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:33:02,995 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:33:02,995 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:33:02,996 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:33:02,996 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:33:27,098 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:33:27,098 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:33:27,099 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:33:27,099 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:33:49,554 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:33:49,554 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:33:49,556 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:33:49,556 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 17:36:33,585 [Worker-101: Launching PrimeStringTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:36:33,586 [Worker-101: Launching PrimeStringTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 17:36:33,587 [Worker-101: Launching PrimeStringTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 17:36:33,587 [Worker-101: Launching PrimeStringTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 18:00:44,267 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 18:00:44,269 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\main\resources
+2022-08-03 18:00:44,272 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 18:00:44,272 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Sts WorkSpace New\junittest\src\test\resources
+2022-08-03 18:47:13,875 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@2ca7c8c{STOPPING}[10.0.9,sto=0]
+2022-08-03 18:47:13,907 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@986136{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-08-03 18:47:14,127 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5b1ea323{/help,null,STOPPED}
+2022-08-05 08:45:25,032 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-06 16:41:54,289 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
